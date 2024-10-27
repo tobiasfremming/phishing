@@ -2,8 +2,9 @@
 import { MongoClient } from 'mongodb';
 
 let cachedClient = null;
+const client = new MongoClient(process.env.MONGODB_URI);
 
-async function connectToDatabase(uri) {
+async function connectToDatabase(uri = MONGODB_URI) {
   if (cachedClient) return cachedClient;
   const client = new MongoClient(uri);
   await client.connect();
