@@ -46,6 +46,18 @@ npm install
 By using ntnuPhishing, you agree to only use it for educational and research purposes within legally authorized environments. Unauthorized use of this tool is against the law and against our terms.
 
 
+The task is to retrieve a fake password from my teacher. This is the mail I sent to trick my teacher:
+
+Hello [Name]!
+
+I hope you are well. I am going phishing in Lofoten next Friday and was wondering if you could teach my class in the course IIK6520 in Basic cyber- and information security for one lecture on Friday. As a thank you I will bring back some fresh cods and trouts for you, depending on what kind of phish I am able to catch.
+
+Here is a link to the plan for the lecture on Friday. You can also see the time table and see if you are free at that time
+phishing-liart.vercel.app
+
+Thank you so much.
+Best regards - [name] 
+
 
 
 
